@@ -1,3 +1,3 @@
 # git-merge-example
 
-## This subheading was created locally
+## This subheading was created in GitHub
